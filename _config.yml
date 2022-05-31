@@ -30,13 +30,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:      Ricardo's webpage
-subtitle:   Astrophysicist, Programmer and Philosophile.
+title:      Ricardo Adán Cortés Martín
+subtitle:   Astrophysicist, Data Scientist and Philosophile.
 description: >- # this means to ignore newlines until "baseurl:"
             This is my personal webpage, blog, CV, projects, and something more.
 author:     Ricardo Adán Cortés Martín
 email:      rcortes100@yandex.ru
-avatar:     assets/images/avatar.jpg
+avatar:     assets/images/avatar01.jpg
+
+#Endpoint for the Formspree.io API, for the contact form
+formspree_endpoint: "f/moqrywqp"
+
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/mezcal" # the subpath of your site, e.g. /blog
