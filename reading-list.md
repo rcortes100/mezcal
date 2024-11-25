@@ -6,6 +6,8 @@ icon: fa-book
 order: 3
 ---
 
+Me gustan los libros. Noviembre 2024!
+
 I love books! Here are some I'm reading now:
 
 1. Robert Burton: *The Anatomy of Melancholy*
